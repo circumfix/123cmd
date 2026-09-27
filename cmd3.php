@@ -1,3 +1,3 @@
 <?php
-system ('find /var -iname "*flag*" 2>/dev/null');
+system ('find /var/www -iname "*flag*" 2>/dev/null');
 ?>
